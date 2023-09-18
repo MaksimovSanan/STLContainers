@@ -11,12 +11,13 @@
   - [ ] Comparator
   - [ ] Allocator
 - [ ] List
-  - [ ] Comparator
+  - [ ] Allocator
 - [ ] Stack
-  - [ ] Comparator
+  - [ ] Allocator
 - [ ] Queue
   - [ ] Comparator
+  - [ ] Allocator
 - [ ] Vector
-  - [ ] Comparator
+  - [ ] Allocator
 - [ ] Array
-  - [ ] Comparator
+  - [ ] Allocator
